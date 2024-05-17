@@ -1,0 +1,10 @@
+C:\Users\Alex\source\repos\DBMSApp\DBMSApp\bin\Debug\DBMSApp.exe.config
+C:\Users\Alex\source\repos\DBMSApp\DBMSApp\bin\Debug\DBMSApp.exe
+C:\Users\Alex\source\repos\DBMSApp\DBMSApp\bin\Debug\DBMSApp.pdb
+C:\Users\Alex\source\repos\DBMSApp\DBMSApp\obj\Debug\DBMSApp.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\DBMSApp\DBMSApp\obj\Debug\DBMSApp.Form1.resources
+C:\Users\Alex\source\repos\DBMSApp\DBMSApp\obj\Debug\DBMSApp.Properties.Resources.resources
+C:\Users\Alex\source\repos\DBMSApp\DBMSApp\obj\Debug\DBMSApp.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\DBMSApp\DBMSApp\obj\Debug\DBMSApp.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\DBMSApp\DBMSApp\obj\Debug\DBMSApp.exe
+C:\Users\Alex\source\repos\DBMSApp\DBMSApp\obj\Debug\DBMSApp.pdb
